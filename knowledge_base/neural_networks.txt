@@ -1,0 +1,18 @@
+Neural networks are computational models loosely inspired by the human brain.
+They consist of layers of interconnected nodes called neurons.
+
+Structure:
+- Input layer  : receives the raw data
+- Hidden layers: transform data through learned weights and activation functions
+- Output layer : produces the final prediction
+
+How they learn:
+1. Forward pass      – data flows through the network to produce a prediction
+2. Calculate loss    – compare prediction to the correct answer
+3. Backpropagation   – calculate how much each weight contributed to the error
+4. Update weights    – adjust weights using gradient descent
+
+Common architectures:
+- CNN  (Convolutional Neural Network) – great for images
+- RNN  (Recurrent Neural Network)     – great for sequences and time-series
+- Transformer                         – the architecture behind modern LLMs like Claude and GPT

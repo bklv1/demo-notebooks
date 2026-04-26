@@ -1,0 +1,13 @@
+Machine learning (ML) is a subset of artificial intelligence that allows computers
+to learn from data without being explicitly programmed for every task.
+
+Types of machine learning:
+1. Supervised Learning  – the model learns from labeled examples (e.g. spam detection)
+2. Unsupervised Learning – the model finds patterns in unlabeled data (e.g. clustering)
+3. Reinforcement Learning – the model learns by trial and error using rewards
+
+Key concepts:
+- Training data: labeled examples used to teach the model
+- Features: input variables the model uses to make predictions
+- Loss function: measures how wrong the model's predictions are
+- Gradient descent: algorithm used to minimize the loss and improve the model
